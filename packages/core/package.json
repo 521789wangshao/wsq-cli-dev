@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "wsq-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@wsq-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "a79f3b9b4b2fce75be28f77356152df44552be31"
 }
