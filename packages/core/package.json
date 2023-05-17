@@ -1,6 +1,6 @@
 {
   "name": "@wsq-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "wsq-cli-dev core",
   "author": "835815459@qq.com <2621912185@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@wsq-cli-dev/utils": "^1.0.2"
+    "@wsq-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "a79f3b9b4b2fce75be28f77356152df44552be31"
 }
