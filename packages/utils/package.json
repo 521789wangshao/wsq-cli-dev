@@ -1,6 +1,6 @@
 {
   "name": "@wsq-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wsq-cli-dev utils",
   "author": "835815459@qq.com <2621912185@qq.com>",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Run testing from utils\""
-  },
-  "dependencies": {}
+  }
 }
